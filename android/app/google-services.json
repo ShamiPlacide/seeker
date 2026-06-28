@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845747038601",
+    "project_id": "seeker-25cbb",
+    "storage_bucket": "seeker-25cbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845747038601:android:292715e2cb9a693daa9958",
+        "android_client_info": {
+          "package_name": "com.shami.seeker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxsA76mubMeChSkWhy3SqRRRAPXXoeZqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
